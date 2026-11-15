@@ -17,6 +17,9 @@
         },
         "metal_wall": {
             "textures": "textures/blocks/metal_wall"
+        },
+        "grid_computer": {
+            "textures": "textures/blocks/grid_computer"
         }
     }
 }
